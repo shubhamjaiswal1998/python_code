@@ -42,3 +42,4 @@ a, *b, c = t
 print(a) #  1
 print(b) #  [2, 3, 4, 'abcd']
 print(c) # 5
+#this is comment line
